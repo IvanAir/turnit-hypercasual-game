@@ -1,6 +1,6 @@
 # Casual Roguelike Game (Unity WebGL)
 
-🎮 **Играть в браузере:** [Кликни сюда, чтобы запустить игру](https://твой-логин.github.io/casual-roguelike-demo/)
+🎮 **Играть в браузере:** [Кликни сюда, чтобы запустить игру](https://ivanair.github.io/unity-game-turnit/)
 
 ## 📝 О проекте
 Моб-проект в жанре Casual Roguelike, разработанный на Unity.
