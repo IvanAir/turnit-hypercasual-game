@@ -1,6 +1,6 @@
 # 🪐 Turn It! (Hyper-casual Puzzle)
 
-**🎮[PLAY IN BROWSER](ССЫЛКА_НА_ИГРУ)**
+**🎮[PLAY IN BROWSER](https://qa-gamedev.github.io/turnit-hypercasual-game/)**
 
 ## 📖 О проекте
 «Turn It!» — это гиперказуальная игра-головоломка на реакцию и тайминг. Изначально проект был опубликован на платформе Яндекс Игры. 
